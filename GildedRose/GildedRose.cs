@@ -1,7 +1,6 @@
 ﻿using GildedRose.Models;
 using GildedRoseKata.Extensions;
 using System.Collections.Generic;
-using System.ComponentModel;
 
 namespace GildedRoseKata
 {
